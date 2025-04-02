@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiohappyeyeballs = "*"
+aiohttp = "*"
+aiosignal = "*"
+attrs = "*"
+cffi = "*"
+cryptography = "*"
+frozenlist = "*"
+gidgethub = "*"
+idna = "*"
+multidict = "*"
+propcache = "*"
+pycparser = "*"
+pyjwt = "*"
+python-dotenv = "*"
+uritemplate = "*"
+yarl = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "*"
