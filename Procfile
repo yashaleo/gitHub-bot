@@ -1,1 +1,1 @@
-web: python -m __main__
+web: python -m webservice.__main__
